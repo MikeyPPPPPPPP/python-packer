@@ -1,5 +1,5 @@
 # python-packer
-This will prlymorphicly pack your python programs
+This will polymorphicly pack your python programs
 
 to use:
 
